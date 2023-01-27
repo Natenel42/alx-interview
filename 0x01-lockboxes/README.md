@@ -27,8 +27,6 @@
 
     boxes = [[1, 4], [2], [0, 4, 1], [3], [], [4, 1], [5, 6]]
     print(canUnlockAll(boxes))
-
-
     carrie@ubuntu:~/0x01-lockboxes$ ./main_0.py
     True
     True

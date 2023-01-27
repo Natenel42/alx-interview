@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 '''Prime Game'''
 
-
 def isWinner(x, nums):
     '''finds the winner'''
     winnerCounter = {'Maria': 0, 'Ben': 0}
